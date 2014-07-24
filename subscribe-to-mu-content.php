@@ -13,7 +13,7 @@
  *
  * @wordpress-plugin
  * Plugin Name:       Subscribe to MU Content
- * Plugin URI:        https://github.com/jontedejong/subscribe-to-mu-content
+ * Plugin URI:        https://github.com/jonathan-dejong/subscribe-to-mu-content
  * Description:       Adds the ability to let signed in users subscribe to content from sites in the network by email. This plugin will then send out a new email when new content is made available on the sites the user has selected. Only Multisite compatible *duh*
  * Version:           1.0.0
  * Author:            Jonathan de Jong
@@ -22,7 +22,7 @@
  * License:           GPL-2.0+
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
  * Domain Path:       /languages
- * GitHub Plugin URI: https://github.com/jontedejong/subscribe-to-mu-content
+ * GitHub Plugin URI: https://github.com/jonathan-dejong/subscribe-to-mu-content
  * WordPress-Plugin-Boilerplate: v2.6.1
  */
 
