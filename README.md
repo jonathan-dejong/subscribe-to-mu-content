@@ -1,6 +1,5 @@
 === Subscribe to MU Content ===
 Contributors: jonathandejong
-Donate link: http://tigerton.se/
 Tags: Multisite, subscribe, email
 Requires at least: 3.5.1
 Tested up to: 4.0
