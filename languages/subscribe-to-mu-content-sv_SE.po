@@ -1,0 +1,182 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Subscribe to MU Content v1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-07-24 06:50:19+0000\n"
+"Last-Translator: tigerton <jonathan@tigerton.se>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: Swedish\n"
+"X-Poedit-Country: SWEDEN\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: admin/class-subscribe-to-mu-content-admin.php:159
+#@ subscribe-to-mu-content
+msgid "Subscribe to MU Content settings"
+msgstr "Subscribe to MU Content inställningar"
+
+#: admin/class-subscribe-to-mu-content-admin.php:160
+#@ subscribe-to-mu-content
+msgid "MU Subscriptions"
+msgstr ""
+
+#: admin/class-subscribe-to-mu-content-admin.php:177
+#@ subscribe-to-mu-content
+msgid "General"
+msgstr "Generellt"
+
+#: admin/class-subscribe-to-mu-content-admin.php:177
+#@ subscribe-to-mu-content
+msgid "Emails"
+msgstr "E-post"
+
+#: admin/class-subscribe-to-mu-content-admin.php:228
+#@ subscribe-to-mu-content
+msgid "A new post has been published"
+msgstr "Ett nytt inlägg har publicerats"
+
+#: admin/views/admin.php:69
+#@ subscribe-to-mu-content
+msgid "General settings"
+msgstr "Generella inställningar"
+
+#: admin/views/admin.php:70
+#@ subscribe-to-mu-content
+msgid "These are some general settings"
+msgstr "Här finner ni generella inställningar för tilläggets funktionalitet"
+
+#: admin/views/admin.php:72
+#@ subscribe-to-mu-content
+msgid "Exclude sites:"
+msgstr "Exkludera sajter:"
+
+#: admin/views/admin.php:100
+#@ subscribe-to-mu-content
+msgid "Email settings"
+msgstr "E-post inställningar"
+
+#: admin/views/admin.php:101
+#@ subscribe-to-mu-content
+msgid "These settings allow you to set the look and feel of the mail being sent out to subscribers. Any information you put in the editor below will be prepended to the basic information about the post that's been published"
+msgstr "Dessa inställningar låter dig bestämma hur det skickade mailet ser ut. All information du lägger till här kommer med i mailet utöver information om själva inlägget som publicerats."
+
+#: admin/views/admin.php:103
+#: admin/views/admin.php:113
+#@ subscribe-to-mu-content
+msgid "From:"
+msgstr "Från:"
+
+#: admin/views/admin.php:108
+#@ subscribe-to-mu-content
+msgid "Subject:"
+msgstr "Ämne:"
+
+#: public/class-subscribe-to-mu-content.php:340
+#: public/views/public.php:19
+#@ subscribe-to-mu-content
+msgid "You need to be logged in to manage your subscription"
+msgstr "Du måste logga in för att hantera din prenumeration"
+
+#: public/class-subscribe-to-mu-content.php:344
+#@ subscribe-to-mu-content
+msgid "Login"
+msgstr "Logga in"
+
+#: public/class-subscribe-to-mu-content.php:350
+#: public/views/public.php:29
+#@ subscribe-to-mu-content
+msgid "Recover password"
+msgstr "Glömt lösenordet?"
+
+#: public/class-subscribe-to-mu-content.php:361
+#: public/views/public.php:41
+#@ subscribe-to-mu-content
+msgid "Your subscription has been successfully updated"
+msgstr "Din prenumeration har uppdaterats"
+
+#: public/class-subscribe-to-mu-content.php:372
+#: public/views/public.php:54
+#@ subscribe-to-mu-content
+msgid "Are you sure you want to uncheck all your subscriptions?"
+msgstr "Är du säker på att du vill bocka ur alla dina prenumerationer?"
+
+#: public/class-subscribe-to-mu-content.php:374
+#: public/views/public.php:56
+#@ subscribe-to-mu-content
+msgid "Yes"
+msgstr "Ja"
+
+#: public/class-subscribe-to-mu-content.php:375
+#: public/views/public.php:57
+#@ subscribe-to-mu-content
+msgid "No"
+msgstr "Nej"
+
+#: public/class-subscribe-to-mu-content.php:381
+#@ subscribe-to-mu-content
+msgid "Logged in as"
+msgstr "Inloggad som"
+
+#: public/class-subscribe-to-mu-content.php:382
+#@ subscribe-to-mu-content
+msgid "Logout"
+msgstr "Logga ut"
+
+#: public/class-subscribe-to-mu-content.php:394
+#: public/views/public.php:66
+#@ subscribe-to-mu-content
+msgid "No subscription"
+msgstr "Ingen prenumeration"
+
+#: public/class-subscribe-to-mu-content.php:406
+#: public/views/public.php:74
+#@ subscribe-to-mu-content
+msgid "Update subscription"
+msgstr "Uppdatera prenumeration"
+
+#. translators: plugin header field 'Name'
+#: subscribe-to-mu-content.php:0
+#@ subscribe-to-mu-content
+msgid "Subscribe to MU Content"
+msgstr ""
+
+#. translators: plugin header field 'PluginURI'
+#: subscribe-to-mu-content.php:0
+#@ subscribe-to-mu-content
+msgid "https://github.com/jontedejong/subscribe-to-mu-content"
+msgstr ""
+
+#. translators: plugin header field 'Description'
+#: subscribe-to-mu-content.php:0
+#@ subscribe-to-mu-content
+msgid "Adds the ability to let signed in users subscribe to content from sites in the network by email. This plugin will then send out a new email when new content is made available on the sites the user has selected. Only Multisite compatible *duh*"
+msgstr "Ger inloggade besökare möjlighet att prenumerera på innehåll från en eller flera sajter i nätverket. När ett nytt inlägg skapas skickas ett email ut till dessa besökare. OBS. Kräver multisite installation *duh*"
+
+#. translators: plugin header field 'Author'
+#: subscribe-to-mu-content.php:0
+#@ subscribe-to-mu-content
+msgid "Jonathan de Jong"
+msgstr ""
+
+#. translators: plugin header field 'AuthorURI'
+#: subscribe-to-mu-content.php:0
+#@ subscribe-to-mu-content
+msgid "www.tigerton.se"
+msgstr ""
+
+#. translators: plugin header field 'Version'
+#: subscribe-to-mu-content.php:0
+#@ subscribe-to-mu-content
+msgid "1.0.0"
+msgstr ""
+
